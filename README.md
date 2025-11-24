@@ -80,3 +80,4 @@ wget https://raw.githubusercontent.com/eooce/Auto-deploy-sap-and-keepalive/refs/
 3. 试用版第二区域和企业版创建区域后,请一定要创建一个空间,名称随意,否则无法运行
 4. 部署区域（SG(free)和US(free)为试用版,其他为企业版，请选择和开设的平台对应,aws,gcp,azure
 5. 建议设置SUB_PATH订阅token,防止节点泄露
+ 
